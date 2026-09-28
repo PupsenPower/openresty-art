@@ -15,6 +15,6 @@ entries:
     name: openresty-art
     type: application
     urls:
-    - https://raw.githubusercontent.com/PupsenPower/openresty-art/main/charts/openresty-art-0.1.0.tgz
+    - https://raw.githubusercontent.com/PupsenPower/openresty-art/main/openresty-art-0.1.0.tgz
     version: 0.1.0
 generated: "2026-09-28T14:23:47.108725524+03:00"
