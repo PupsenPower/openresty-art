@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  openresty-art:
+  - apiVersion: v2
+    appVersion: 1.19.9.1-centos.rpm
+    created: "2026-09-28T14:23:47.109641304+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 261483698e2a0e416641d9023f090d4ae0013b0b953a8041ef4bbcb0aee8df55
+    home: https://github.com/BigKAA/youtube/tree/master/helm
+    kubeVersion: '>= 1.19.0'
+    maintainers:
+    - email: artur@kryukov.biz
+      name: Artur Kryukov
+      url: https://www.kryukov.biz
+    name: openresty-art
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/PupsenPower/openresty-art/main/charts/openresty-art-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-09-28T14:23:47.108725524+03:00"
